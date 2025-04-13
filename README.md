@@ -36,7 +36,7 @@ To run this app locally:
 
 ```bash
 git clone https://github.com/mohd-yaseen-official/weather-app.git
-cd weather-ui-app
+cd weather-app
 npm install
 npx react-native run-android # or run-ios
 ```
